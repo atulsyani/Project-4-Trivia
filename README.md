@@ -1,2 +1,58 @@
-# Project-4-Trivia
-Project 4 Trivia
+# Project 4 - *Trivia*
+
+Submitted by: **Armaan Tulsyani**
+
+**Trivia** is an app that allows you to get questions and answer them correctly 
+
+Time spent: **2** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] User can view and answer at least 5 trivia questions.
+- [X] App retrieves question data from the Open Trivia Database API.
+- [X] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [X] Users can see score after submitting all questions.
+- [X] True or False questions only have two options.
+
+
+The following **optional** features are implemented:
+
+  
+- [ ] Allow the user to choose a specific category of questions.
+- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/90db096c45944005b484aeb6a48f5db7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/90db096c45944005b484aeb6a48f5db7-ef604316aeb1a4c2-full-play.gif">
+    </a>
+  </div>
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+Challenges with Postman
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
